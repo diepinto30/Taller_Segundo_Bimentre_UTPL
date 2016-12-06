@@ -1,0 +1,12 @@
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+	Comercial Ventas y Reventas
+Nombre: LOXA
+Ciudad: loja
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+Producto		Cant		Precio
+Aceite    		2		2,60
+Sal       		3		3,00
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+			Subtotal: 5,60
+			IVA: 0,78
+			TOTAL: 6,38
